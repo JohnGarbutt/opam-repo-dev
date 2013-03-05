@@ -1,1 +1,1 @@
-git: "/root/netdev"
+git: "git://github.com/xen-org/netdev.git"
