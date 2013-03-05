@@ -1,1 +1,1 @@
-git: "/root/xen-api"
+git: "git://github.com/johngarbutt/xen-api#centos63"
